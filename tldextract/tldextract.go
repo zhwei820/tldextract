@@ -1,11 +1,10 @@
-package github.com/zhwei820/tldextract
+package tldextract
 
 import (
 	"bytes"
 	"fmt"
 	"io/ioutil"
 	"net"
-	"net/http"
 	"regexp"
 	"strings"
 )

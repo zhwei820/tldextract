@@ -1,6 +1,6 @@
 /*
 
-Package tldextract provides the ability to extract gTLD or ccTLD(generic or country code top-level domain), the registered domain and subdomain from a url according to the Public Suffix List.
+package github.com/zhwei820/tldextract provides the ability to extract gTLD or ccTLD(generic or country code top-level domain), the registered domain and subdomain from a url according to the Public Suffix List.
 
 A simple usage:
 	package main
@@ -21,5 +21,5 @@ A simple usage:
     }
 
 */
-package tldextract
+package github.com/zhwei820/tldextract
 

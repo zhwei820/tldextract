@@ -1,4 +1,4 @@
-package tldextract
+package github.com/zhwei820/tldextract
 
 import (
 	"fmt"
